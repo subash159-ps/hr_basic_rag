@@ -1,0 +1,23 @@
+numpy
+
+python-dotenv
+
+## WEB APP
+streamlit
+
+
+langchain
+langchain-core
+langchain-community
+
+## LLM PROVIDERS
+langchain-groq
+langchain-text-splitters
+
+## VECTOR STORES
+faiss-cpu
+
+## NOTE BOOK
+jupyter
+jupyter-kernel
+
